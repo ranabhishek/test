@@ -1,5 +1,0 @@
-{{#user}}
-Name: Abhishek
-Skills: JAVA, C, C++, Python
-Email: abhishek2731175@gmail.com
-{{/user}}
